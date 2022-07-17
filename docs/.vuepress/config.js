@@ -2,7 +2,7 @@ module.exports = {
   "title": "阿冰の神秘小屋",
   "description": "",
   "dest": "public",
-  "base": "/",
+  "base": "/vuePress/",
   "locales": {
     '/': {
       lang: 'zh-CN'
@@ -59,11 +59,11 @@ module.exports = {
         "items": [
           {
             "text": "react",
-            "link": "/docs/react/公用内容"
+            "link": "/docss/react/公用内容"
           },
           {
             "text": "js原生",
-            "link": "/docs/jsn/数组"
+            "link": "/docss/jsn/数组"
           }
         ]
       },
@@ -81,7 +81,7 @@ module.exports = {
     ],
     //侧边栏
     sidebar: {
-      '/docs/react/': [
+      '/docss/react/': [
         {
           "title": "react",
           "collapsable": false,
@@ -94,7 +94,7 @@ module.exports = {
           ]
         },
       ],
-      '/docs/jsn/': [
+      '/docss/jsn/': [
         {
           "title": "js",
           "collapsable": false,

@@ -16,8 +16,8 @@ export default {
         "v-5bb7cb77",
         "v-111ac246",
         "v-4f566ddc",
-        "v-5f54743e",
-        "v-3b5b1f88"
+        "v-3b5b1f88",
+        "v-5f54743e"
       ]
     },
     "Cookie": {
@@ -50,8 +50,8 @@ export default {
         "v-7d8c15ac",
         "v-111ac246",
         "v-4f566ddc",
-        "v-5f54743e",
-        "v-3b5b1f88"
+        "v-3b5b1f88",
+        "v-5f54743e"
       ]
     },
     "Cookie": {
@@ -62,20 +62,20 @@ export default {
         "v-2b41af7e"
       ]
     },
-    "正则": {
-      "key": "正则",
-      "scope": "categories",
-      "path": "/categories/正则/",
-      "pageKeys": [
-        "v-b25377c8"
-      ]
-    },
     "排序": {
       "key": "排序",
       "scope": "categories",
       "path": "/categories/排序/",
       "pageKeys": [
         "v-5bb7cb77"
+      ]
+    },
+    "正则": {
+      "key": "正则",
+      "scope": "categories",
+      "path": "/categories/正则/",
+      "pageKeys": [
+        "v-b25377c8"
       ]
     }
   },

@@ -6,7 +6,7 @@ heroTextStyle: {
   color: '#fff'
 }
 
-bgImage: '/mojove.jpg'
+bgImage: /mojove.jpg
 
 # heroImage: /hero.png
 # heroImageStyle: {

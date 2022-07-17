@@ -52,19 +52,19 @@ export default [{
 },
 {
   pid: "categories",
-  id: "正则",
+  id: "排序",
   filter: filters.categories,
   sorter: sorters.categories,
-  pages: [{"path":"/categories/正则/","interval":[0,1]}],
+  pages: [{"path":"/categories/排序/","interval":[0,1]}],
   prevText: "Prev",
   nextText: "Next",
 },
 {
   pid: "categories",
-  id: "排序",
+  id: "正则",
   filter: filters.categories,
   sorter: sorters.categories,
-  pages: [{"path":"/categories/排序/","interval":[0,1]}],
+  pages: [{"path":"/categories/正则/","interval":[0,1]}],
   prevText: "Prev",
   nextText: "Next",
 }]
