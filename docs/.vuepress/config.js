@@ -1,7 +1,7 @@
 module.exports = {
   "title": "阿冰の神秘小屋",
   "description": "",
-  "dest": "public",
+  "dest": "docs/.vuepress/dist",
   "base": "/vuePress/",
   "locales": {
     '/': {
