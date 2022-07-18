@@ -9,13 +9,13 @@ export default {
       "path": "/tag/JS/",
       "pageKeys": [
         "v-f046b57a",
-        "v-f6549966",
         "v-38a4feaf",
+        "v-f6549966",
         "v-4f76e671",
-        "v-bc0606fc",
         "v-15d7fe16",
-        "v-2b4caaa8",
+        "v-bc0606fc",
         "v-f99f0cb2",
+        "v-2b4caaa8",
         "v-b56311f2",
         "v-9b73516e"
       ]
@@ -44,12 +44,12 @@ export default {
       "path": "/categories/前端小笔记/",
       "pageKeys": [
         "v-f046b57a",
-        "v-f6549966",
         "v-38a4feaf",
+        "v-f6549966",
         "v-4f76e671",
         "v-15d7fe16",
-        "v-2b4caaa8",
         "v-f99f0cb2",
+        "v-2b4caaa8",
         "v-b56311f2",
         "v-9b73516e"
       ]

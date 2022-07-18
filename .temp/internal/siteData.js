@@ -40,7 +40,7 @@ export const siteData = {
       "title": "旋转木马",
       "frontmatter": {
         "title": "旋转木马",
-        "date": "2020-12-24T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E6%97%8B%E8%BD%AC%E6%9C%A8%E9%A9%AC.html",
       "relativePath": "blog/css浪漫动画/旋转木马.md",
@@ -51,7 +51,7 @@ export const siteData = {
       "title": "手风琴",
       "frontmatter": {
         "title": "手风琴",
-        "date": "2020-08-12T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E6%89%8B%E9%A3%8E%E7%90%B4.html",
       "relativePath": "blog/css浪漫动画/手风琴.md",
@@ -62,7 +62,7 @@ export const siteData = {
       "title": "Base64转blob对象",
       "frontmatter": {
         "title": "Base64转blob对象",
-        "date": "2020-06-21T00:00:00.000Z",
+        "date": "2022-7-18",
         "tags": [
           "JS"
         ],
@@ -76,32 +76,56 @@ export const siteData = {
       "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/Base64%E8%BD%ACBlob.html"
     },
     {
-      "title": "随机轮播",
+      "title": "call && apply && bind",
       "frontmatter": {
-        "title": "随机轮播",
-        "date": "2020-12-02T00:00:00.000Z"
+        "title": "call && apply && bind",
+        "date": "2022-7-18",
+        "tags": [
+          "JS"
+        ],
+        "categories": [
+          "前端小笔记"
+        ]
       },
-      "regularPath": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E9%9A%8F%E6%9C%BA%E8%BD%AE%E6%92%AD.html",
-      "relativePath": "blog/css浪漫动画/随机轮播.md",
-      "key": "v-e5247d42",
-      "path": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E9%9A%8F%E6%9C%BA%E8%BD%AE%E6%92%AD.html"
+      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/call%20&&%20apply%20&&%20bind.html",
+      "relativePath": "blog/js封装工具/call && apply && bind.md",
+      "key": "v-38a4feaf",
+      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/call%20&&%20apply%20&&%20bind.html"
     },
     {
-      "title": "霓虹灯六角形粒子动画",
+      "title": "Number处理",
       "frontmatter": {
-        "title": "霓虹灯六角形粒子动画",
-        "date": "2020-12-25T00:00:00.000Z"
+        "title": "Number处理",
+        "date": "2022-7-18",
+        "tags": [
+          "JS"
+        ],
+        "categories": [
+          "前端小笔记"
+        ]
       },
-      "regularPath": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E9%9C%93%E8%99%B9%E7%81%AF%E5%85%AD%E8%A7%92%E5%BD%A2%E7%B2%92%E5%AD%90%E5%8A%A8%E7%94%BB.html",
-      "relativePath": "blog/css浪漫动画/霓虹灯六角形粒子动画.md",
-      "key": "v-4e8fd4a3",
-      "path": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E9%9C%93%E8%99%B9%E7%81%AF%E5%85%AD%E8%A7%92%E5%BD%A2%E7%B2%92%E5%AD%90%E5%8A%A8%E7%94%BB.html"
+      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/Number%E5%A4%84%E7%90%86.html",
+      "relativePath": "blog/js封装工具/Number处理.md",
+      "key": "v-f6549966",
+      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/Number%E5%A4%84%E7%90%86.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "数字千分位分割",
+          "slug": "数字千分位分割"
+        },
+        {
+          "level": 2,
+          "title": "生成随机数",
+          "slug": "生成随机数"
+        }
+      ]
     },
     {
       "title": "Cookie",
       "frontmatter": {
         "title": "Cookie",
-        "date": "2019-01-24T00:00:00.000Z",
+        "date": "2022-7-18",
         "subSidebar": false,
         "tags": [
           "Cookie"
@@ -133,67 +157,10 @@ export const siteData = {
       ]
     },
     {
-      "title": "Number处理",
-      "frontmatter": {
-        "title": "Number处理",
-        "date": "2020-02-12T00:00:00.000Z",
-        "tags": [
-          "JS"
-        ],
-        "categories": [
-          "前端小笔记"
-        ]
-      },
-      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/Number%E5%A4%84%E7%90%86.html",
-      "relativePath": "blog/js封装工具/Number处理.md",
-      "key": "v-f6549966",
-      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/Number%E5%A4%84%E7%90%86.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "数字千分位分割",
-          "slug": "数字千分位分割"
-        },
-        {
-          "level": 2,
-          "title": "生成随机数",
-          "slug": "生成随机数"
-        }
-      ]
-    },
-    {
-      "title": "lalal",
-      "frontmatter": {
-        "title": "lalal",
-        "date": "2022-07-14T00:00:00.000Z"
-      },
-      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/lala.html",
-      "relativePath": "blog/js封装工具/lala.md",
-      "key": "v-2d1b5fe6",
-      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/lala.html"
-    },
-    {
-      "title": "call && apply && bind",
-      "frontmatter": {
-        "title": "call && apply && bind",
-        "date": "2020-01-02T00:00:00.000Z",
-        "tags": [
-          "JS"
-        ],
-        "categories": [
-          "前端小笔记"
-        ]
-      },
-      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/call%20&&%20apply%20&&%20bind.html",
-      "relativePath": "blog/js封装工具/call && apply && bind.md",
-      "key": "v-38a4feaf",
-      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/call%20&&%20apply%20&&%20bind.html"
-    },
-    {
       "title": "保留小数",
       "frontmatter": {
         "title": "保留小数",
-        "date": "2021-02-26T00:00:00.000Z",
+        "date": "2022-7-18",
         "tags": [
           "JS"
         ],
@@ -207,10 +174,38 @@ export const siteData = {
       "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E4%BF%9D%E7%95%99%E5%B0%8F%E6%95%B0.html"
     },
     {
+      "title": "函数柯里化",
+      "frontmatter": {
+        "title": "函数柯里化",
+        "date": "2022-7-18",
+        "tags": [
+          "JS"
+        ],
+        "categories": [
+          "前端小笔记"
+        ]
+      },
+      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96.html",
+      "relativePath": "blog/js封装工具/函数柯里化.md",
+      "key": "v-15d7fe16",
+      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96.html"
+    },
+    {
+      "title": "霓虹灯六角形粒子动画",
+      "frontmatter": {
+        "title": "霓虹灯六角形粒子动画",
+        "date": "2022-7-18"
+      },
+      "regularPath": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E9%9C%93%E8%99%B9%E7%81%AF%E5%85%AD%E8%A7%92%E5%BD%A2%E7%B2%92%E5%AD%90%E5%8A%A8%E7%94%BB.html",
+      "relativePath": "blog/css浪漫动画/霓虹灯六角形粒子动画.md",
+      "key": "v-4e8fd4a3",
+      "path": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E9%9C%93%E8%99%B9%E7%81%AF%E5%85%AD%E8%A7%92%E5%BD%A2%E7%B2%92%E5%AD%90%E5%8A%A8%E7%94%BB.html"
+    },
+    {
       "title": "常用正则表达式",
       "frontmatter": {
         "title": "常用正则表达式",
-        "date": "2021-01-22T00:00:00.000Z",
+        "date": "2022-7-18",
         "tags": [
           "正则"
         ],
@@ -244,7 +239,7 @@ export const siteData = {
       "title": "排序",
       "frontmatter": {
         "title": "排序",
-        "date": "2019-07-11T00:00:00.000Z",
+        "date": "2022-7-18",
         "tags": [
           "JS"
         ],
@@ -290,44 +285,10 @@ export const siteData = {
       ]
     },
     {
-      "title": "函数柯里化",
-      "frontmatter": {
-        "title": "函数柯里化",
-        "date": "2019-05-23T00:00:00.000Z",
-        "tags": [
-          "JS"
-        ],
-        "categories": [
-          "前端小笔记"
-        ]
-      },
-      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96.html",
-      "relativePath": "blog/js封装工具/函数柯里化.md",
-      "key": "v-15d7fe16",
-      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96.html"
-    },
-    {
-      "title": "时间格式化",
-      "frontmatter": {
-        "title": "时间格式化",
-        "date": "2019-02-16T00:00:00.000Z",
-        "tags": [
-          "JS"
-        ],
-        "categories": [
-          "前端小笔记"
-        ]
-      },
-      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E5%8C%96.html",
-      "relativePath": "blog/js封装工具/时间格式化.md",
-      "key": "v-2b4caaa8",
-      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E5%8C%96.html"
-    },
-    {
       "title": "滚动条操作",
       "frontmatter": {
         "title": "滚动条操作",
-        "date": "2019-06-22T00:00:00.000Z",
+        "date": "2022-7-18",
         "tags": [
           "JS"
         ],
@@ -341,10 +302,38 @@ export const siteData = {
       "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%BB%9A%E5%8A%A8%E6%9D%A1%E6%93%8D%E4%BD%9C.html"
     },
     {
+      "title": "随机轮播",
+      "frontmatter": {
+        "title": "随机轮播",
+        "date": "2022-7-18"
+      },
+      "regularPath": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E9%9A%8F%E6%9C%BA%E8%BD%AE%E6%92%AD.html",
+      "relativePath": "blog/css浪漫动画/随机轮播.md",
+      "key": "v-e5247d42",
+      "path": "/blog/css%E6%B5%AA%E6%BC%AB%E5%8A%A8%E7%94%BB/%E9%9A%8F%E6%9C%BA%E8%BD%AE%E6%92%AD.html"
+    },
+    {
+      "title": "时间格式化",
+      "frontmatter": {
+        "title": "时间格式化",
+        "date": "2022-7-18",
+        "tags": [
+          "JS"
+        ],
+        "categories": [
+          "前端小笔记"
+        ]
+      },
+      "regularPath": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E5%8C%96.html",
+      "relativePath": "blog/js封装工具/时间格式化.md",
+      "key": "v-2b4caaa8",
+      "path": "/blog/js%E5%B0%81%E8%A3%85%E5%B7%A5%E5%85%B7/%E6%97%B6%E9%97%B4%E6%A0%BC%E5%BC%8F%E5%8C%96.html"
+    },
+    {
       "title": "节流&防抖",
       "frontmatter": {
         "title": "节流&防抖",
-        "date": "2020-03-16T00:00:00.000Z",
+        "date": "2022-7-18",
         "tags": [
           "JS"
         ],
@@ -373,7 +362,7 @@ export const siteData = {
       "title": "过滤对象中为空的属性",
       "frontmatter": {
         "title": "过滤对象中为空的属性",
-        "date": "2019-03-30T00:00:00.000Z",
+        "date": "2022-7-18",
         "tags": [
           "JS"
         ],
@@ -390,7 +379,7 @@ export const siteData = {
       "title": "BOM对象",
       "frontmatter": {
         "title": "BOM对象",
-        "date": "2021-01-20T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/docss/jsn/BOM%E5%AF%B9%E8%B1%A1.html",
       "relativePath": "docss/jsn/BOM对象.md",
@@ -440,48 +429,10 @@ export const siteData = {
       ]
     },
     {
-      "title": "CentOS7安装Nginx",
-      "frontmatter": {
-        "title": "CentOS7安装Nginx",
-        "date": "2020-09-21T00:00:00.000Z"
-      },
-      "regularPath": "/docss/jsn/CentOS7%E5%AE%89%E8%A3%85Nginx.html",
-      "relativePath": "docss/jsn/CentOS7安装Nginx.md",
-      "key": "v-fab951d8",
-      "path": "/docss/jsn/CentOS7%E5%AE%89%E8%A3%85Nginx.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "1.下载Nginx安装包",
-          "slug": "_1-下载nginx安装包"
-        },
-        {
-          "level": 2,
-          "title": "2.解压",
-          "slug": "_2-解压"
-        },
-        {
-          "level": 2,
-          "title": "3.配置",
-          "slug": "_3-配置"
-        },
-        {
-          "level": 2,
-          "title": "4.编译安装",
-          "slug": "_4-编译安装"
-        },
-        {
-          "level": 2,
-          "title": "5.开机自动启动",
-          "slug": "_5-开机自动启动"
-        }
-      ]
-    },
-    {
       "title": "DOM操作",
       "frontmatter": {
         "title": "DOM操作",
-        "date": "2021-01-12T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/docss/jsn/DOM%E6%93%8D%E4%BD%9C.html",
       "relativePath": "docss/jsn/DOM操作.md",
@@ -526,10 +477,48 @@ export const siteData = {
       ]
     },
     {
+      "title": "CentOS7安装Nginx",
+      "frontmatter": {
+        "title": "CentOS7安装Nginx",
+        "date": "2022-7-18"
+      },
+      "regularPath": "/docss/jsn/CentOS7%E5%AE%89%E8%A3%85Nginx.html",
+      "relativePath": "docss/jsn/CentOS7安装Nginx.md",
+      "key": "v-fab951d8",
+      "path": "/docss/jsn/CentOS7%E5%AE%89%E8%A3%85Nginx.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "1.下载Nginx安装包",
+          "slug": "_1-下载nginx安装包"
+        },
+        {
+          "level": 2,
+          "title": "2.解压",
+          "slug": "_2-解压"
+        },
+        {
+          "level": 2,
+          "title": "3.配置",
+          "slug": "_3-配置"
+        },
+        {
+          "level": 2,
+          "title": "4.编译安装",
+          "slug": "_4-编译安装"
+        },
+        {
+          "level": 2,
+          "title": "5.开机自动启动",
+          "slug": "_5-开机自动启动"
+        }
+      ]
+    },
+    {
       "title": "Git",
       "frontmatter": {
         "title": "Git",
-        "date": "2021-02-22T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/docss/jsn/Git.html",
       "relativePath": "docss/jsn/Git.md",
@@ -552,7 +541,7 @@ export const siteData = {
       "title": "flex布局",
       "frontmatter": {
         "title": "flex布局",
-        "date": "2020-11-06T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/docss/jsn/flex%E5%B8%83%E5%B1%80.html",
       "relativePath": "docss/jsn/flex布局.md",
@@ -632,228 +621,10 @@ export const siteData = {
       ]
     },
     {
-      "title": "数组方法",
-      "frontmatter": {
-        "title": "数组方法",
-        "date": "2022-07-14T00:00:00.000Z"
-      },
-      "regularPath": "/docss/jsn/%E6%95%B0%E7%BB%84.html",
-      "relativePath": "docss/jsn/数组.md",
-      "key": "v-055cb7a6",
-      "path": "/docss/jsn/%E6%95%B0%E7%BB%84.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "判断是不是数组",
-          "slug": "判断是不是数组"
-        },
-        {
-          "level": 2,
-          "title": "Set()",
-          "slug": "set"
-        },
-        {
-          "level": 2,
-          "title": "push()",
-          "slug": "push"
-        },
-        {
-          "level": 2,
-          "title": "pop()",
-          "slug": "pop"
-        },
-        {
-          "level": 2,
-          "title": "shift()",
-          "slug": "shift"
-        },
-        {
-          "level": 2,
-          "title": "unshift()",
-          "slug": "unshift"
-        },
-        {
-          "level": 2,
-          "title": "splice(i,n,x)",
-          "slug": "splice-i-n-x"
-        },
-        {
-          "level": 2,
-          "title": "concat()",
-          "slug": "concat"
-        },
-        {
-          "level": 2,
-          "title": "str.split()",
-          "slug": "str-split"
-        },
-        {
-          "level": 2,
-          "title": "sort()",
-          "slug": "sort"
-        },
-        {
-          "level": 2,
-          "title": "reverse()",
-          "slug": "reverse"
-        },
-        {
-          "level": 2,
-          "title": "slice(start,end)",
-          "slug": "slice-start-end"
-        },
-        {
-          "level": 2,
-          "title": "forEach((value,index,arr)=>{})",
-          "slug": "foreach-value-index-arr"
-        },
-        {
-          "level": 2,
-          "title": "map((value,index,arr)=>{})",
-          "slug": "map-value-index-arr"
-        },
-        {
-          "level": 2,
-          "title": "filter((value,index,arr)=>{})",
-          "slug": "filter-value-index-arr"
-        },
-        {
-          "level": 2,
-          "title": "every((value,index,arr)=>{})",
-          "slug": "every-value-index-arr"
-        },
-        {
-          "level": 2,
-          "title": "some()",
-          "slug": "some"
-        },
-        {
-          "level": 2,
-          "title": "reduce((value,index,arr)=>{}, initialValue)",
-          "slug": "reduce-value-index-arr-initialvalue"
-        },
-        {
-          "level": 2,
-          "title": "reduceRight((value,index,arr)=>{}, initialValue)",
-          "slug": "reduceright-value-index-arr-initialvalue"
-        },
-        {
-          "level": 2,
-          "title": "indexOf(i,n)",
-          "slug": "indexof-i-n"
-        },
-        {
-          "level": 2,
-          "title": "lastIndexOf()",
-          "slug": "lastindexof"
-        },
-        {
-          "level": 2,
-          "title": "Array.from()",
-          "slug": "array-from"
-        },
-        {
-          "level": 2,
-          "title": "Array.of()",
-          "slug": "array-of"
-        },
-        {
-          "level": 2,
-          "title": "find((value,index,arr)=>{})",
-          "slug": "find-value-index-arr"
-        },
-        {
-          "level": 2,
-          "title": "findIndex((value,index,arr)=>{})",
-          "slug": "findindex-value-index-arr"
-        },
-        {
-          "level": 2,
-          "title": "arr.fill(target, start, end)",
-          "slug": "arr-fill-target-start-end"
-        },
-        {
-          "level": 2,
-          "title": "includes(T,S)",
-          "slug": "includes-t-s"
-        },
-        {
-          "level": 2,
-          "title": "entries()",
-          "slug": "entries"
-        },
-        {
-          "level": 2,
-          "title": "arr.flat(Infinity) 数组拍平",
-          "slug": "arr-flat-infinity-数组拍平"
-        },
-        {
-          "level": 2,
-          "title": "pop方法",
-          "slug": "pop方法"
-        },
-        {
-          "level": 2,
-          "title": "unshift()方法",
-          "slug": "unshift-方法"
-        },
-        {
-          "level": 2,
-          "title": "shift()",
-          "slug": "shift-2"
-        },
-        {
-          "level": 2,
-          "title": "题目1",
-          "slug": "题目1"
-        },
-        {
-          "level": 2,
-          "title": "题目2",
-          "slug": "题目2"
-        },
-        {
-          "level": 2,
-          "title": "数组的方法清单",
-          "slug": "数组的方法清单"
-        },
-        {
-          "level": 2,
-          "title": "数组的类型相关",
-          "slug": "数组的类型相关"
-        },
-        {
-          "level": 2,
-          "title": "数组元素的添加和删除",
-          "slug": "数组元素的添加和删除"
-        },
-        {
-          "level": 2,
-          "title": "数组的合并和拆分",
-          "slug": "数组的合并和拆分"
-        },
-        {
-          "level": 2,
-          "title": "数组排序",
-          "slug": "数组排序"
-        },
-        {
-          "level": 2,
-          "title": "查找数组的元素",
-          "slug": "查找数组的元素"
-        },
-        {
-          "level": 2,
-          "title": "遍历数组",
-          "slug": "遍历数组"
-        }
-      ]
-    },
-    {
       "title": "loading 加载动画",
       "frontmatter": {
         "title": "loading 加载动画",
-        "date": "2020-09-15T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/docss/jsn/loading%20%E5%8A%A0%E8%BD%BD%E5%8A%A8%E7%94%BB.html",
       "relativePath": "docss/jsn/loading 加载动画.md",
@@ -901,7 +672,7 @@ export const siteData = {
       "title": "移动端踩坑指南",
       "frontmatter": {
         "title": "移动端踩坑指南",
-        "date": "2021-01-28T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/docss/jsn/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E8%B8%A9%E5%9D%91%E6%8C%87%E5%8D%97.html",
       "relativePath": "docss/jsn/移动端踩坑指南.md",
@@ -1121,6 +892,257 @@ export const siteData = {
       ]
     },
     {
+      "title": "数组方法",
+      "frontmatter": {
+        "title": "数组方法",
+        "date": "2022-7-18"
+      },
+      "regularPath": "/docss/jsn/%E6%95%B0%E7%BB%84.html",
+      "relativePath": "docss/jsn/数组.md",
+      "key": "v-055cb7a6",
+      "path": "/docss/jsn/%E6%95%B0%E7%BB%84.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "判断是不是数组",
+          "slug": "判断是不是数组"
+        },
+        {
+          "level": 2,
+          "title": "Set()",
+          "slug": "set"
+        },
+        {
+          "level": 2,
+          "title": "push()",
+          "slug": "push"
+        },
+        {
+          "level": 2,
+          "title": "pop()",
+          "slug": "pop"
+        },
+        {
+          "level": 2,
+          "title": "shift()",
+          "slug": "shift"
+        },
+        {
+          "level": 2,
+          "title": "unshift()",
+          "slug": "unshift"
+        },
+        {
+          "level": 2,
+          "title": "splice(i,n,x)",
+          "slug": "splice-i-n-x"
+        },
+        {
+          "level": 2,
+          "title": "concat()",
+          "slug": "concat"
+        },
+        {
+          "level": 2,
+          "title": "str.split()",
+          "slug": "str-split"
+        },
+        {
+          "level": 2,
+          "title": "sort()",
+          "slug": "sort"
+        },
+        {
+          "level": 2,
+          "title": "reverse()",
+          "slug": "reverse"
+        },
+        {
+          "level": 2,
+          "title": "slice(start,end)",
+          "slug": "slice-start-end"
+        },
+        {
+          "level": 2,
+          "title": "forEach((value,index,arr)=>{})",
+          "slug": "foreach-value-index-arr"
+        },
+        {
+          "level": 2,
+          "title": "map((value,index,arr)=>{})",
+          "slug": "map-value-index-arr"
+        },
+        {
+          "level": 2,
+          "title": "filter((value,index,arr)=>{})",
+          "slug": "filter-value-index-arr"
+        },
+        {
+          "level": 2,
+          "title": "every((value,index,arr)=>{})",
+          "slug": "every-value-index-arr"
+        },
+        {
+          "level": 2,
+          "title": "some()",
+          "slug": "some"
+        },
+        {
+          "level": 2,
+          "title": "reduce((value,index,arr)=>{}, initialValue)",
+          "slug": "reduce-value-index-arr-initialvalue"
+        },
+        {
+          "level": 2,
+          "title": "reduceRight((value,index,arr)=>{}, initialValue)",
+          "slug": "reduceright-value-index-arr-initialvalue"
+        },
+        {
+          "level": 2,
+          "title": "indexOf(i,n)",
+          "slug": "indexof-i-n"
+        },
+        {
+          "level": 2,
+          "title": "lastIndexOf()",
+          "slug": "lastindexof"
+        },
+        {
+          "level": 2,
+          "title": "Array.from()",
+          "slug": "array-from"
+        },
+        {
+          "level": 2,
+          "title": "Array.of()",
+          "slug": "array-of"
+        },
+        {
+          "level": 2,
+          "title": "find((value,index,arr)=>{})",
+          "slug": "find-value-index-arr"
+        },
+        {
+          "level": 2,
+          "title": "findIndex((value,index,arr)=>{})",
+          "slug": "findindex-value-index-arr"
+        },
+        {
+          "level": 2,
+          "title": "arr.fill(target, start, end)",
+          "slug": "arr-fill-target-start-end"
+        },
+        {
+          "level": 2,
+          "title": "includes(T,S)",
+          "slug": "includes-t-s"
+        },
+        {
+          "level": 2,
+          "title": "entries()",
+          "slug": "entries"
+        },
+        {
+          "level": 2,
+          "title": "arr.flat(Infinity) 数组拍平",
+          "slug": "arr-flat-infinity-数组拍平"
+        },
+        {
+          "level": 2,
+          "title": "pop方法",
+          "slug": "pop方法"
+        },
+        {
+          "level": 2,
+          "title": "unshift()方法",
+          "slug": "unshift-方法"
+        },
+        {
+          "level": 2,
+          "title": "shift()",
+          "slug": "shift-2"
+        },
+        {
+          "level": 2,
+          "title": "题目1",
+          "slug": "题目1"
+        },
+        {
+          "level": 2,
+          "title": "题目2",
+          "slug": "题目2"
+        },
+        {
+          "level": 2,
+          "title": "数组的方法清单",
+          "slug": "数组的方法清单"
+        },
+        {
+          "level": 2,
+          "title": "数组的类型相关",
+          "slug": "数组的类型相关"
+        },
+        {
+          "level": 2,
+          "title": "数组元素的添加和删除",
+          "slug": "数组元素的添加和删除"
+        },
+        {
+          "level": 2,
+          "title": "数组的合并和拆分",
+          "slug": "数组的合并和拆分"
+        },
+        {
+          "level": 2,
+          "title": "数组排序",
+          "slug": "数组排序"
+        },
+        {
+          "level": 2,
+          "title": "查找数组的元素",
+          "slug": "查找数组的元素"
+        },
+        {
+          "level": 2,
+          "title": "遍历数组",
+          "slug": "遍历数组"
+        }
+      ]
+    },
+    {
+      "title": "class类组件",
+      "frontmatter": {
+        "title": "class类组件",
+        "date": "2022-07-14T00:00:00.000Z"
+      },
+      "regularPath": "/docss/react/class%E7%B1%BB%E7%BB%84%E4%BB%B6.html",
+      "relativePath": "docss/react/class类组件.md",
+      "key": "v-1092095f",
+      "path": "/docss/react/class%E7%B1%BB%E7%BB%84%E4%BB%B6.html",
+      "headers": [
+        {
+          "level": 2,
+          "title": "setState//待更新",
+          "slug": "setstate-待更新"
+        },
+        {
+          "level": 2,
+          "title": "类组件的传值方式",
+          "slug": "类组件的传值方式"
+        },
+        {
+          "level": 2,
+          "title": "input数据存储",
+          "slug": "input数据存储"
+        },
+        {
+          "level": 2,
+          "title": "React.memo",
+          "slug": "react-memo"
+        }
+      ]
+    },
+    {
       "title": "Hooks函数组件",
       "frontmatter": {
         "title": "Hooks函数组件",
@@ -1177,7 +1199,7 @@ export const siteData = {
       "title": "公用内容",
       "frontmatter": {
         "title": "公用内容",
-        "date": "2022-07-14T00:00:00.000Z"
+        "date": "2022-7-18"
       },
       "regularPath": "/docss/react/%E5%85%AC%E7%94%A8%E5%86%85%E5%AE%B9.html",
       "relativePath": "docss/react/公用内容.md",
@@ -1213,39 +1235,6 @@ export const siteData = {
           "level": 2,
           "title": "消息订阅与发布",
           "slug": "消息订阅与发布"
-        }
-      ]
-    },
-    {
-      "title": "class类组件",
-      "frontmatter": {
-        "title": "class类组件",
-        "date": "2022-07-14T00:00:00.000Z"
-      },
-      "regularPath": "/docss/react/class%E7%B1%BB%E7%BB%84%E4%BB%B6.html",
-      "relativePath": "docss/react/class类组件.md",
-      "key": "v-1092095f",
-      "path": "/docss/react/class%E7%B1%BB%E7%BB%84%E4%BB%B6.html",
-      "headers": [
-        {
-          "level": 2,
-          "title": "setState//待更新",
-          "slug": "setstate-待更新"
-        },
-        {
-          "level": 2,
-          "title": "类组件的传值方式",
-          "slug": "类组件的传值方式"
-        },
-        {
-          "level": 2,
-          "title": "input数据存储",
-          "slug": "input数据存储"
-        },
-        {
-          "level": 2,
-          "title": "React.memo",
-          "slug": "react-memo"
         }
       ]
     },
