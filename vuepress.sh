@@ -7,9 +7,21 @@ set -e
 npm run build
 
 git add .
+
 git commit -m '.'
 
-
 git push 
+
+
+
+cd public
+
+git init 
+
+git add . 
+
+git commit -m '更新'
+
+git git push -f https://github.com/wangchenbing/vuePress.git master:gh-pages
 
 cd -
