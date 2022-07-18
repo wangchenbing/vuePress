@@ -1,6 +1,6 @@
 ---
 title: CentOS7安装Nginx
-date: 2020-09-21
+date: 2022-7-18
 ---
 
 ## 1.下载Nginx安装包

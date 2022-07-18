@@ -1,6 +1,6 @@
 ---
 title: call && apply && bind
-date: 2020-01-02
+date: 2022-7-18
 tags:
  - JS
 categories:
