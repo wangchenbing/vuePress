@@ -1,1 +1,1 @@
-export { default } from "C:\\Users\\王晨冰\\Desktop\\博客\\node_modules\\vuepress-plugin-sakura\\bin\\enhanceAppFile.js"
+export { default } from "C:\\Users\\王晨冰\\Desktop\\vuePress\\node_modules\\_vuepress-plugin-sakura@1.2.1@vuepress-plugin-sakura\\bin\\enhanceAppFile.js"

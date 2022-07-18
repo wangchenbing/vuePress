@@ -6,7 +6,7 @@ heroTextStyle: {
   color: '#fff'
 }
 
-bgImage: /mojove.jpg
+# bgImage: /mojove.jpg
 
 # heroImage: /hero.png
 # heroImageStyle: {
@@ -18,6 +18,6 @@ bgImage: /mojove.jpg
 #   borderRadius: '1rem',
 # }
 
-isShowTitleInHome: true
+# isShowTitleInHome: true
 
 ---

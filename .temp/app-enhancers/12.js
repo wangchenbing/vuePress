@@ -1,1 +1,1 @@
-export { default } from "C:\\Users\\王晨冰\\Desktop\\博客\\node_modules\\vuepress-plugin-ribbon-animation\\bin\\enhanceAppFile.js"
+export { default } from "C:\\Users\\王晨冰\\Desktop\\vuePress\\node_modules\\_vuepress-plugin-ribbon-animation@1.1.3@vuepress-plugin-ribbon-animation\\bin\\enhanceAppFile.js"

@@ -8,16 +8,16 @@ export default {
       "scope": "tags",
       "path": "/tag/JS/",
       "pageKeys": [
-        "v-67cd05f8",
-        "v-2a30bac2",
-        "v-04caf2e4",
-        "v-0c21a8e6",
-        "v-7d8c15ac",
-        "v-5bb7cb77",
-        "v-111ac246",
-        "v-4f566ddc",
-        "v-3b5b1f88",
-        "v-5f54743e"
+        "v-f046b57a",
+        "v-f6549966",
+        "v-38a4feaf",
+        "v-4f76e671",
+        "v-bc0606fc",
+        "v-15d7fe16",
+        "v-2b4caaa8",
+        "v-f99f0cb2",
+        "v-b56311f2",
+        "v-9b73516e"
       ]
     },
     "Cookie": {
@@ -25,7 +25,7 @@ export default {
       "scope": "tags",
       "path": "/tag/Cookie/",
       "pageKeys": [
-        "v-2b41af7e"
+        "v-e0352568"
       ]
     },
     "正则": {
@@ -33,7 +33,7 @@ export default {
       "scope": "tags",
       "path": "/tag/正则/",
       "pageKeys": [
-        "v-b25377c8"
+        "v-0cf10732"
       ]
     }
   },
@@ -43,15 +43,15 @@ export default {
       "scope": "categories",
       "path": "/categories/前端小笔记/",
       "pageKeys": [
-        "v-67cd05f8",
-        "v-2a30bac2",
-        "v-04caf2e4",
-        "v-0c21a8e6",
-        "v-7d8c15ac",
-        "v-111ac246",
-        "v-4f566ddc",
-        "v-3b5b1f88",
-        "v-5f54743e"
+        "v-f046b57a",
+        "v-f6549966",
+        "v-38a4feaf",
+        "v-4f76e671",
+        "v-15d7fe16",
+        "v-2b4caaa8",
+        "v-f99f0cb2",
+        "v-b56311f2",
+        "v-9b73516e"
       ]
     },
     "Cookie": {
@@ -59,15 +59,7 @@ export default {
       "scope": "categories",
       "path": "/categories/Cookie/",
       "pageKeys": [
-        "v-2b41af7e"
-      ]
-    },
-    "排序": {
-      "key": "排序",
-      "scope": "categories",
-      "path": "/categories/排序/",
-      "pageKeys": [
-        "v-5bb7cb77"
+        "v-e0352568"
       ]
     },
     "正则": {
@@ -75,7 +67,15 @@ export default {
       "scope": "categories",
       "path": "/categories/正则/",
       "pageKeys": [
-        "v-b25377c8"
+        "v-0cf10732"
+      ]
+    },
+    "排序": {
+      "key": "排序",
+      "scope": "categories",
+      "path": "/categories/排序/",
+      "pageKeys": [
+        "v-bc0606fc"
       ]
     }
   },
