@@ -54,17 +54,25 @@ module.exports = {
         ]
       },
       {
-        "text": "牛逼の文章",
+        "text": "特牛逼の文章",
         "icon": "reco-document",
         "items": [
           {
-            "text": "react",
-            "link": "/docss/react/公用内容"
+            "text": "css样式",
+            "link": "/docss/css样式/flex布局"
           },
           {
             "text": "js原生",
             "link": "/docss/jsn/数组"
-          }
+          },
+          {
+            "text": "webpack",
+            "link": "/docss/webpacks/webpack"
+          },
+          {
+            "text": "react",
+            "link": "/docss/react/公用内容"
+          },
         ]
       },
       {
@@ -81,6 +89,32 @@ module.exports = {
     ],
     //侧边栏
     sidebar: {
+      '/docss/css样式/': [
+        'flex布局',
+        "Grid布局",
+      ],
+      '/docss/jsn/': [
+        {
+          "title": "js",
+          "collapsable": false,
+          "children": [
+            '数组',
+            "BOM对象",
+            "DOM操作",
+            "Git",
+            "移动端踩坑指南",
+            "CentOS7安装Nginx",
+            'promise使用',
+            'let,const,var区别',
+            '构造函数与原型链',
+            'call && apply && bind',
+            'arguments对象',
+            '深拷贝与浅拷贝',
+            'TypeScript',
+            '函数式编程'
+          ]
+        },
+      ],
       '/docss/react/': [
         {
           "title": "react",
@@ -94,22 +128,6 @@ module.exports = {
           ]
         },
       ],
-      '/docss/jsn/': [
-        {
-          "title": "js",
-          "collapsable": false,
-          "children": [
-            '数组',
-            "BOM对象",
-            "DOM操作",
-            "flex布局",
-            "Git",
-            "移动端踩坑指南",
-            "CentOS7安装Nginx",
-            'loading 加载动画'
-          ]
-        },
-      ],
       '/blog/js封装工具/': [
         '时间格式化',
         '过滤对象中为空的属性',
@@ -117,12 +135,11 @@ module.exports = {
         '函数柯里化',
         '滚动条操作',
         '排序',
-        'call && apply && bind',
         '节流&防抖',
         'Base64转Blob',
         '保留小数',
         '常用正则表达式',
-        'Number处理'
+        'Number处理',
 
       ],
       '/blog/css浪漫动画/': [
@@ -130,6 +147,7 @@ module.exports = {
         '随机轮播',
         '旋转木马',
         '霓虹灯六角形粒子动画',
+        'loading 加载动画',
       ]
     }
   },

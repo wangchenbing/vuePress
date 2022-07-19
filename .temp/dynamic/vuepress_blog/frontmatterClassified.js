@@ -3,29 +3,29 @@
  */
 export default {
   "tags": {
-    "JS": {
-      "key": "JS",
-      "scope": "tags",
-      "path": "/tag/JS/",
-      "pageKeys": [
-        "v-f046b57a",
-        "v-38a4feaf",
-        "v-f6549966",
-        "v-4f76e671",
-        "v-15d7fe16",
-        "v-bc0606fc",
-        "v-f99f0cb2",
-        "v-2b4caaa8",
-        "v-b56311f2",
-        "v-9b73516e"
-      ]
-    },
     "Cookie": {
       "key": "Cookie",
       "scope": "tags",
       "path": "/tag/Cookie/",
       "pageKeys": [
         "v-e0352568"
+      ]
+    },
+    "JS": {
+      "key": "JS",
+      "scope": "tags",
+      "path": "/tag/JS/",
+      "pageKeys": [
+        "v-f046b57a",
+        "v-f6549966",
+        "v-15d7fe16",
+        "v-4f76e671",
+        "v-bc0606fc",
+        "v-2b4caaa8",
+        "v-b56311f2",
+        "v-f99f0cb2",
+        "v-9b73516e",
+        "v-713276db"
       ]
     },
     "正则": {
@@ -35,31 +35,47 @@ export default {
       "pageKeys": [
         "v-0cf10732"
       ]
+    },
+    "CSS": {
+      "key": "CSS",
+      "scope": "tags",
+      "path": "/tag/CSS/",
+      "pageKeys": [
+        "v-39ee13e8",
+        "v-2365d3b2"
+      ]
     }
   },
   "categories": {
-    "前端小笔记": {
-      "key": "前端小笔记",
-      "scope": "categories",
-      "path": "/categories/前端小笔记/",
-      "pageKeys": [
-        "v-f046b57a",
-        "v-38a4feaf",
-        "v-f6549966",
-        "v-4f76e671",
-        "v-15d7fe16",
-        "v-f99f0cb2",
-        "v-2b4caaa8",
-        "v-b56311f2",
-        "v-9b73516e"
-      ]
-    },
     "Cookie": {
       "key": "Cookie",
       "scope": "categories",
       "path": "/categories/Cookie/",
       "pageKeys": [
         "v-e0352568"
+      ]
+    },
+    "前端小笔记": {
+      "key": "前端小笔记",
+      "scope": "categories",
+      "path": "/categories/前端小笔记/",
+      "pageKeys": [
+        "v-f046b57a",
+        "v-15d7fe16",
+        "v-4f76e671",
+        "v-2b4caaa8",
+        "v-b56311f2",
+        "v-f99f0cb2",
+        "v-9b73516e",
+        "v-713276db"
+      ]
+    },
+    "前端封装工具": {
+      "key": "前端封装工具",
+      "scope": "categories",
+      "path": "/categories/前端封装工具/",
+      "pageKeys": [
+        "v-f6549966"
       ]
     },
     "正则": {

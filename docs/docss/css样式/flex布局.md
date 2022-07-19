@@ -1,15 +1,55 @@
 ---
 title: flex布局
 date: 2022-7-18
+tags:
+ - CSS
 ---
 
-## live demo
-<flex-flex/>
+在父级盒子开启flex布局
+```css
+  display:flex;
+```
 
+## 设置主轴方向
 
-<br>
-<br>
+```css
+  flex-direction: column;垂直
+  flex-direction: column-reverse;反向垂直
+  flex-direction: row;水平
+  flex-direction: row-reverse;反向水平
+```
 
+## 主轴分布
+```css
+  justify-content: space-around;
+  /* 在一行中平均分配 */
+  justify-content: space-between;
+  /* 在一行中对顶分配 */
+  justify-content: space-evenly;
+  /* 所有格子间隔一样 */
+  justify-content: center;//子元素居中对齐
+  justify-content: flex-end;//从尾部开始排列
+  justify-content: flex-start;//默认值,从头开始
+```
+
+## 侧轴分布
+```css
+  /* 参数同上 */
+  align-items: center;//侧轴剧中
+```
+
+## 整体多行布局
+```css
+参数同上
+  align-content: center
+```
+
+## 子盒子是否换行
+
+```css
+  flex-wrap: wrap;//换行
+  flex-wrap: nowrap;//默认不换行
+```
 ## 属性解释
 ### flexbox
 对Flex容器设置display:flex或者display:inline-flex
@@ -193,7 +233,3 @@ Flex项目在Cross-Axis对齐方式(父容器Y轴)，默认是flex-start，起�
               // 起始端对齐 || 末尾段对齐|| 居中对齐 || 基线对齐（默认是指首行文字） || 子容器沿Y轴方向的尺寸拉伸至与父容器一致
 }
  ```
-
-
-
-
