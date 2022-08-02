@@ -1,8 +1,6 @@
 ---
 title: flex布局
 date: 2022-7-18
-tags:
- - CSS
 ---
 
 在父级盒子开启flex布局

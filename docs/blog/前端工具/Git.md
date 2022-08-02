@@ -5,21 +5,29 @@ date: 2022-7-18
 
 ## 常用命令
 
-<img src="https://www.zpzpup.com/assets/image/npm/git01.jpg" alt="下载安装包">
 
-贴上链接
 
-> https://git-scm.com/download/win
+* Git一条龙服务
+```
+打包已修改的代码
+  git add . 
+提交到自己本地仓库
+  git commit -m "修改代码注释"  
+查看本地代码提交情况
+  git status              
+切换到主分支
+  git checkout master     
+拉取远端master代码
+  git pull origin master     
+切换到自己的开发分支
+  git checkout duanDyDev      
+将主分支代码合并到自己的分支，解决冲突
+  git merge master           
+合并远程分支
+  git push origin XXX(远程自己分子名)       
 
-Workspace：工作区
+```
 
-Index / Stage：暂存区
-
-Repository：仓库区（或本地仓库）
-
-Remote：远程仓库
-
-本地分支关联远程：git branch --set-upstream-to=origin/beta beta
 
 * 新建代码库
 
@@ -321,31 +329,3 @@ $ git archive
 ```
 
 
-## Git 相关
-
-* reset 与 rebase, pull 与 fetch 的区别
-  git reset 不修改 commit 相关的东西，只会去修改.git 目录下的东西。
-  
-  git rebase 会试图修改你已经 commit 的东西，比如覆盖 commit 的历史等，但是不能使用 rebase 来修改已经 push 过的内容，容易出现兼容性问题。rebase还可以来解决内容的冲突，解决两个人修改了同一份内容，然后失败的问题。
-  
-  git pull pull=fetch+merge,使用git fetch 是取回远端更新，不会对本地执行merge操作，不会去 动你的本地的内容。pull 会更新你本地代码到服务器上对应分支的最新版本。
-  
-* git merge 和 git rebase 的区别
-  git merge 把本地代码和已经取得的远程仓库代码合并。
-  
-  git rebase 是复位基底的意思，gitmerge 会生成一个新的节点，之前的提交会分开显示，而 rebase 操作不会生成新的操作，将两个分支融合成一个线性的提交。
-  
-* git 如何解决代码冲突
-  git stash
-  
-  git pull
-  
-  git stash pop
-  
-  这个操作就是把自己修改的代码隐藏，然后把远程仓库的代码拉下来，然后把自己隐藏的修改的代码释放出 来，让 git 自动合并。
-  
-  如果要代码库的文件完全覆盖本地版本。
-  
-  git reset –hard
-  
-  git pull

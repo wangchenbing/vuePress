@@ -3,14 +3,6 @@
  */
 export default {
   "tags": {
-    "Cookie": {
-      "key": "Cookie",
-      "scope": "tags",
-      "path": "/tag/Cookie/",
-      "pageKeys": [
-        "v-e0352568"
-      ]
-    },
     "JS": {
       "key": "JS",
       "scope": "tags",
@@ -18,14 +10,23 @@ export default {
       "pageKeys": [
         "v-f046b57a",
         "v-f6549966",
-        "v-15d7fe16",
         "v-4f76e671",
+        "v-dbde2ae4",
+        "v-f99f0cb2",
+        "v-15d7fe16",
+        "v-b56311f2",
+        "v-9b73516e",
         "v-bc0606fc",
         "v-2b4caaa8",
-        "v-b56311f2",
-        "v-f99f0cb2",
-        "v-9b73516e",
         "v-713276db"
+      ]
+    },
+    "Cookie": {
+      "key": "Cookie",
+      "scope": "tags",
+      "path": "/tag/Cookie/",
+      "pageKeys": [
+        "v-e0352568"
       ]
     },
     "正则": {
@@ -41,33 +42,33 @@ export default {
       "scope": "tags",
       "path": "/tag/CSS/",
       "pageKeys": [
-        "v-39ee13e8",
         "v-2365d3b2"
       ]
     }
   },
   "categories": {
-    "Cookie": {
-      "key": "Cookie",
-      "scope": "categories",
-      "path": "/categories/Cookie/",
-      "pageKeys": [
-        "v-e0352568"
-      ]
-    },
     "前端小笔记": {
       "key": "前端小笔记",
       "scope": "categories",
       "path": "/categories/前端小笔记/",
       "pageKeys": [
         "v-f046b57a",
-        "v-15d7fe16",
         "v-4f76e671",
-        "v-2b4caaa8",
-        "v-b56311f2",
+        "v-dbde2ae4",
         "v-f99f0cb2",
+        "v-15d7fe16",
+        "v-b56311f2",
         "v-9b73516e",
+        "v-2b4caaa8",
         "v-713276db"
+      ]
+    },
+    "Cookie": {
+      "key": "Cookie",
+      "scope": "categories",
+      "path": "/categories/Cookie/",
+      "pageKeys": [
+        "v-e0352568"
       ]
     },
     "前端封装工具": {

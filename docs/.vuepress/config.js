@@ -50,6 +50,10 @@ module.exports = {
             "text": "js封装工具",
             "link": "/blog/js封装工具/时间格式化"
           },
+          {
+            "text": "前端工具",
+            "link": "/blog/前端工具/spark-md5"
+          },
 
         ]
       },
@@ -101,7 +105,6 @@ module.exports = {
             '数组',
             "BOM对象",
             "DOM操作",
-            "Git",
             "移动端踩坑指南",
             "CentOS7安装Nginx",
             'promise使用',
@@ -140,6 +143,7 @@ module.exports = {
         '保留小数',
         '常用正则表达式',
         'Number处理',
+        '嵌套页面展示'
 
       ],
       '/blog/css浪漫动画/': [
@@ -148,6 +152,14 @@ module.exports = {
         '旋转木马',
         '霓虹灯六角形粒子动画',
         'loading 加载动画',
+      ],
+      '/blog/前端工具/': [
+        'spark-md5',
+        '包管理器',
+        'lodash',
+        'Day.js',
+        "Git",
+
       ]
     }
   },
